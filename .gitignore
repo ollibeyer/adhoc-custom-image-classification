@@ -1,3 +1,11 @@
+# Virtual environment
+tf-env/
+
+# Generated folders and filesn
+dataset/
+labels.txt
+model.h5
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
