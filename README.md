@@ -1,5 +1,5 @@
 # Adhoc Custom Image Classification
-This is a simple project to create an adhoc custom image classifier. It furthermore allows you to create a custom dataset with a few clicks only. The image classification itself is based on Tensorflow and the MobileNetv2 in particular.
+This is a simple project to create an adhoc custom image classifier. It furthermore allows you to create a custom dataset with a few clicks only. The image classification itself is based on [Tensorflow](https://www.tensorflow.org) and the [MobileNetV2](https://arxiv.org/pdf/1801.04381v4.pdf) in particular.
 
 ## Getting Started
 
