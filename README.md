@@ -7,7 +7,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-The project requires `python3`, `pip3` and `virtualenv` to build and run. Furthermore, OpenCV needs to be installed on your system. For more information about how to install OpenCV on Mac or Linux visit [https://docs.opencv.org/4.x/d0/db2/tutorial_macos_install.html (Mac)](https://docs.opencv.org/4.x/d0/db2/tutorial_macos_install.html) [https://docs.opencv.org/4.x/d2/de6/tutorial_py_setup_in_ubuntu.html (Linux)](https://docs.opencv.org/4.x/d2/de6/tutorial_py_setup_in_ubuntu.html).
+The project requires `python3`, `pip3` and `virtualenv` to build and run. Furthermore, OpenCV needs to be installed on your system. For more information about how to install OpenCV on Mac or Linux visit [(Mac) https://docs.opencv.org/4.x/d0/db2/tutorial_macos_install.html](https://docs.opencv.org/4.x/d0/db2/tutorial_macos_install.html) [(Linux) https://docs.opencv.org/4.x/d2/de6/tutorial_py_setup_in_ubuntu.html](https://docs.opencv.org/4.x/d2/de6/tutorial_py_setup_in_ubuntu.html).
 
 
 ### Installing
